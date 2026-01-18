@@ -16,6 +16,9 @@
 # Bin files
 *.bin
 
+# Pdf files
+*.pdf
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
