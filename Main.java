@@ -46,7 +46,7 @@ public static class ToDoList {
     }
 }
 
-# пришлось делать без ToDoApp, поскольку были проблемы с переименованием файла для исходника кода на Java под main функцию
+# пришлось делать без класса ToDoApp, поскольку были проблемы с переименованием файла для исходника кода на Java под main функцию
 
 void start(ToDoList getListTasks) {
     String[] options = new String[5];
