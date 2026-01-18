@@ -1,4 +1,4 @@
-public static class Task {
+public static class Task { 
     private final String description;
     private final int id;
     public Task(String description, int id) {
@@ -45,6 +45,8 @@ public static class ToDoList {
         }
     }
 }
+
+# пришлось делать без ToDoApp, поскольку были проблемы с переименованием файла для исходника кода на Java под main функцию
 
 void start(ToDoList getListTasks) {
     String[] options = new String[5];
