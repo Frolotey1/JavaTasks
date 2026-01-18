@@ -102,7 +102,7 @@ void start(ToDoList getListTasks) {
     }
 }
 
-void main() {
+void main() { # с Java 21 или 23 не обязательно писать класс Main
     ToDoList listTasks = new ToDoList();
     start(listTasks);
 }
