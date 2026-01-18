@@ -19,6 +19,9 @@
 # Pdf files
 *.pdf
 
+# Module files
+*.ko
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
